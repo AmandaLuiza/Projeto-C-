@@ -1,0 +1,16 @@
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\6 - AtribuicoesDeVariavel.exe
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\6 - AtribuicoesDeVariavel.deps.json
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\6 - AtribuicoesDeVariavel.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\6 - AtribuicoesDeVariavel.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\6 - AtribuicoesDeVariavel.dll
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\ref\6 - AtribuicoesDeVariavel.dll
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\bin\Debug\net5.0\6 - AtribuicoesDeVariavel.pdb
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.dll
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\ref\6 - AtribuicoesDeVariavel.dll
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.pdb
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.genruntimeconfig.cache
+C:\Users\amanda.ribeiro\source\repos\6 - AtribuicoesDeVariavel\obj\Debug\net5.0\6 - AtribuicoesDeVariavel.csproj.AssemblyReference.cache

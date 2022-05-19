@@ -1,0 +1,16 @@
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.exe
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.deps.json
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.dll
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\ref\10-CalculaPoupanca.dll
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.pdb
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.dll
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\ref\10-CalculaPoupanca.dll
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.pdb
+C:\Users\amanda.ribeiro\source\repos\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.genruntimeconfig.cache

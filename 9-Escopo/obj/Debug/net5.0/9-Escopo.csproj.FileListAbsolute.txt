@@ -1,0 +1,15 @@
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\9-Escopo.exe
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\9-Escopo.deps.json
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\9-Escopo.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\9-Escopo.dll
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\ref\9-Escopo.dll
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\bin\Debug\net5.0\9-Escopo.pdb
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.dll
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\ref\9-Escopo.dll
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.pdb
+C:\Users\amanda.ribeiro\source\repos\9-Escopo\obj\Debug\net5.0\9-Escopo.genruntimeconfig.cache
