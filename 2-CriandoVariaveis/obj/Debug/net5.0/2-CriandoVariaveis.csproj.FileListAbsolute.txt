@@ -1,0 +1,16 @@
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.exe
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.deps.json
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.dll
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\ref\2-CriandoVariaveis.dll
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\bin\Debug\net5.0\2-CriandoVariaveis.pdb
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.dll
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\ref\2-CriandoVariaveis.dll
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.pdb
+C:\Users\amanda.ribeiro\source\repos\2-CriandoVariaveis\obj\Debug\net5.0\2-CriandoVariaveis.genruntimeconfig.cache
